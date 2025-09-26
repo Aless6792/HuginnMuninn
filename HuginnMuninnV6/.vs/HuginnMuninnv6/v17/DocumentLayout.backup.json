@@ -1,60 +1,60 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\",
+  "WorkspaceRootPath": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\faddauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\faddauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HuginnMuninnv6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|c:\\users\\a.pradeaupaulin\\documents\\huginnmuninn\\huginnmuninnv6\\huginnmuninn\\classes\\typelivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\classes\\typelivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\classes\\typelivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\faddlivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\faddlivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\faddlivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\flivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\flivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\flivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\classes\\auteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\classes\\auteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\classes\\auteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\faddauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\faddauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\fauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\fauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\fauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\faddlivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\faddlivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\faddlivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\faddauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\faddauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\faddauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\faddlivre.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\faddlivre.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\faddlivre.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\flivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\flivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\flivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\fauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\fauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\fauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|c:\\users\\a.pradeaupaulin\\documents\\huginnmuninn\\huginnmuninnv6\\huginnmuninn\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|e:\\bts_sio_2e_annee\\ap\\citadelle\\huginnmuninnv6\\huginnmuninn\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,26 +64,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FAddLivre.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.cs",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FAddLivre.cs",
               "ToolTip": "E:\\Modif prog fortin\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Modif prog fortin\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T11:36:52.501Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FAddLivre.cs",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.cs",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FAddLivre.cs",
-              "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.cs",
+              "ToolTip": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.cs",
               "RelativeToolTip": "HuginnMuninn\\FAddLivre.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAJMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,36 +94,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "FAddAuteur.cs",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAddAuteur.cs",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FAddAuteur.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FAddAuteur.cs",
-              "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAddAuteur.cs",
+              "ToolTip": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FAddAuteur.cs",
               "RelativeToolTip": "HuginnMuninn\\FAddAuteur.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwEoAAAAfAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HuginnMuninn",
               "WhenOpened": "2024-07-01T12:11:31.892Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FAddAuteur.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAddAuteur.cs",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FAddAuteur.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FAddAuteur.cs",
-              "ToolTip": "E:\\Modif prog fortin\\HuginnMuninnV6\\HuginnMuninn\\FAddAuteur.cs [Design]",
+              "ToolTip": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FAddAuteur.cs [Design]",
+              "RelativeToolTip": "HuginnMuninn\\FAddAuteur.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T12:11:26.587Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FLivre.cs",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FLivre.cs",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FLivre.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FLivre.cs",
-              "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FLivre.cs",
+              "ToolTip": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FLivre.cs",
               "RelativeToolTip": "HuginnMuninn\\FLivre.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAuwEoAAABnAQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Auteur.cs",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\Classes\\Auteur.cs",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\Classes\\Auteur.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\Classes\\Auteur.cs",
-              "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\Classes\\Auteur.cs",
+              "ToolTip": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\Classes\\Auteur.cs",
               "RelativeToolTip": "HuginnMuninn\\Classes\\Auteur.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,11 +148,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Livre.cs",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\Classes\\Livre.cs",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\Classes\\Livre.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\Classes\\Livre.cs",
-              "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\Classes\\Livre.cs",
+              "ToolTip": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\Classes\\Livre.cs",
               "RelativeToolTip": "HuginnMuninn\\Classes\\Livre.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIBAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,42 +161,24 @@
               "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FAuteur.cs",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAuteur.cs",
-              "RelativeDocumentMoniker": "HuginnMuninn\\FAuteur.cs",
-              "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAuteur.cs",
-              "RelativeToolTip": "HuginnMuninn\\FAuteur.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAowF0AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T14:01:20.428Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TypeLivre.cs",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\Classes\\TypeLivre.cs",
-              "RelativeDocumentMoniker": "HuginnMuninn\\Classes\\TypeLivre.cs",
-              "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\Classes\\TypeLivre.cs*",
-              "RelativeToolTip": "HuginnMuninn\\Classes\\TypeLivre.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenGroupName": "HuginnMuninn\\Classes",
-              "WhenOpened": "2024-07-04T14:28:23.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "HuginnMuninnv6",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\HuginnMuninnv6.csproj",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\HuginnMuninnv6.csproj",
               "RelativeDocumentMoniker": "HuginnMuninn\\HuginnMuninnv6.csproj",
-              "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\HuginnMuninnv6.csproj",
+              "ToolTip": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\HuginnMuninnv6.csproj",
               "RelativeToolTip": "HuginnMuninn\\HuginnMuninnv6.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-07-03T15:55:27.633Z",
@@ -200,11 +186,35 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeLivre.cs",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\Classes\\TypeLivre.cs",
+              "RelativeDocumentMoniker": "HuginnMuninn\\Classes\\TypeLivre.cs",
+              "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\Classes\\TypeLivre.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "HuginnMuninn\\Classes",
+              "WhenOpened": "2024-07-04T14:28:23.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FAuteur.cs",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FAuteur.cs",
+              "RelativeDocumentMoniker": "HuginnMuninn\\FAuteur.cs",
+              "ToolTip": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FAuteur.cs",
+              "RelativeToolTip": "HuginnMuninn\\FAuteur.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowF0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:01:20.428Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "FAddLivre.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.Designer.cs",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.Designer.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FAddLivre.Designer.cs",
-              "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.Designer.cs",
+              "ToolTip": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.Designer.cs",
               "RelativeToolTip": "HuginnMuninn\\FAddLivre.Designer.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,9 +225,10 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "FLivre.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FLivre.cs",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FLivre.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FLivre.cs",
               "ToolTip": "E:\\Modif prog fortin\\HuginnMuninnV6\\HuginnMuninn\\FLivre.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Modif prog fortin\\HuginnMuninnV6\\HuginnMuninn\\FLivre.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T13:57:41.159Z"
             },
@@ -225,9 +236,10 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "FAuteur.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAuteur.cs",
+              "DocumentMoniker": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\FAuteur.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FAuteur.cs",
               "ToolTip": "E:\\Modif prog fortin\\HuginnMuninnV6\\HuginnMuninn\\FAuteur.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Modif prog fortin\\HuginnMuninnV6\\HuginnMuninn\\FAuteur.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T14:01:18.957Z"
             }
