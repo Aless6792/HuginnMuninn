@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|e:\\bts_sio_2e_annee\\ap\\citadelle\\huginnmuninnv6\\huginnmuninn\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|e:\\bts_sio_2e_annee\\ap\\citadelle\\huginnmuninnv6\\huginnmuninn\\faddauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\huginnmuninn\\faddauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\faddauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -69,7 +69,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
@@ -109,8 +109,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HuginnMuninn",
               "WhenOpened": "2024-07-01T12:11:31.892Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -165,6 +164,18 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Connexion.cs",
@@ -186,20 +197,7 @@
               "ToolTip": "E:\\BTS_SIO_2e_Annee\\AP\\Citadelle\\HuginnMuninnV6\\HuginnMuninn\\Connexion.cs [Design]",
               "RelativeToolTip": "HuginnMuninn\\Connexion.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T09:16:17.756Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-09-26T09:16:17.756Z"
             },
             {
               "$type": "Document",
