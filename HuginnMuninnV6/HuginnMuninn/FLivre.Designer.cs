@@ -43,11 +43,11 @@
             // 
             this.dgv_livre.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgv_livre.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dgv_livre.Location = new System.Drawing.Point(0, 42);
+            this.dgv_livre.Location = new System.Drawing.Point(0, 50);
             this.dgv_livre.Name = "dgv_livre";
             this.dgv_livre.RowHeadersWidth = 82;
             this.dgv_livre.RowTemplate.Height = 33;
-            this.dgv_livre.Size = new System.Drawing.Size(1793, 870);
+            this.dgv_livre.Size = new System.Drawing.Size(1793, 862);
             this.dgv_livre.TabIndex = 0;
             this.dgv_livre.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_livre_CellContentClick);
             // 
@@ -61,7 +61,7 @@
             this.tsb_reload});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(1793, 42);
+            this.toolStrip1.Size = new System.Drawing.Size(1793, 50);
             this.toolStrip1.TabIndex = 1;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -71,7 +71,7 @@
             this.tsb_add.Image = ((System.Drawing.Image)(resources.GetObject("tsb_add.Image")));
             this.tsb_add.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsb_add.Name = "tsb_add";
-            this.tsb_add.Size = new System.Drawing.Size(153, 36);
+            this.tsb_add.Size = new System.Drawing.Size(153, 44);
             this.tsb_add.Text = "Ajouter Livre";
             this.tsb_add.Click += new System.EventHandler(this.tsb_add_Click);
             // 
@@ -81,7 +81,7 @@
             this.tsb_modify.Image = ((System.Drawing.Image)(resources.GetObject("tsb_modify.Image")));
             this.tsb_modify.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsb_modify.Name = "tsb_modify";
-            this.tsb_modify.Size = new System.Drawing.Size(166, 36);
+            this.tsb_modify.Size = new System.Drawing.Size(166, 44);
             this.tsb_modify.Text = "Modifier Livre";
             this.tsb_modify.Click += new System.EventHandler(this.tsb_modify_Click);
             // 
@@ -91,7 +91,7 @@
             this.tsb_delete.Image = ((System.Drawing.Image)(resources.GetObject("tsb_delete.Image")));
             this.tsb_delete.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsb_delete.Name = "tsb_delete";
-            this.tsb_delete.Size = new System.Drawing.Size(186, 36);
+            this.tsb_delete.Size = new System.Drawing.Size(186, 44);
             this.tsb_delete.Text = "Supprimer Livre";
             this.tsb_delete.Click += new System.EventHandler(this.tsb_delete_Click);
             // 
@@ -102,7 +102,7 @@
             this.tsb_reload.Image = ((System.Drawing.Image)(resources.GetObject("tsb_reload.Image")));
             this.tsb_reload.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsb_reload.Name = "tsb_reload";
-            this.tsb_reload.Size = new System.Drawing.Size(124, 36);
+            this.tsb_reload.Size = new System.Drawing.Size(124, 44);
             this.tsb_reload.Text = "Recharger";
             this.tsb_reload.Click += new System.EventHandler(this.tsb_reload_Click);
             // 
